@@ -3,6 +3,6 @@
 
 
 ## Author
-** Oleksandr Nykytin **
+**Oleksandr Nykytin**
 - Website: [ninydev.com](https://ninydev.com)
 - Email: [keeper@ninydev.com](keeper@ninydev.com)
